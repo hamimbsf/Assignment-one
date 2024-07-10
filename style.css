@@ -25,3 +25,41 @@
   margin-bottom: 35px;
   background-color: white;
 }
+.nav-logo {
+  width: 128px;
+  height: 33px;
+  margin-top: 50px;
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 35px;
+}
+/* hero section style */
+.hero-section {
+  background-image: url(assets/hero-bg.png);
+  height: 652px;
+}
+.hero-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 26px;
+}
+.main-title {
+  text-align: center;
+  padding-top: 32px;
+  width: 998px;
+  height: 136px;
+  font-size: 48px;
+  font-weight: 700;
+  margin: 0 auto;
+  line-height: 68px;
+}
+.main-description {
+  text-align: center;
+  justify-content: center;
+  width: 852px;
+  height: 52px;
+  padding-top: 24px;
+  opacity: 0.7;
+  margin: 0 auto;
+}
