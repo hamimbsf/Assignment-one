@@ -37,6 +37,7 @@
 .hero-section {
   background-image: url(assets/background.jpg);
   height: 652px;
+  width: 100%;
 }
 .hero-bg {
   display: flex;
