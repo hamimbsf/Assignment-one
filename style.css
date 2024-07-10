@@ -64,7 +64,7 @@
   margin: 0 auto;
 }
 
-.contact-div{
+.contact-div {
   display: flex;
   justify-content: center;
   margin: 0 auto;
@@ -81,7 +81,6 @@
   margin-top: 32px;
   margin-bottom: 44px;
   text-align: center;
-  
 }
 
 /* section 2 style */
@@ -356,4 +355,3 @@ footer {
   display: flex;
   gap: 24px;
 }
-
